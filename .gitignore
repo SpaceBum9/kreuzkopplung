@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.gradio/
+.DS_Store
+*.egg-info/
+dist/
+build/
